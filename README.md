@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello there 👋
+
+I'm a hobby developer and junior penetration tester.
+
+I got some handy dandy scripts in my repo 😉
 
 <!--
 **kontr0x/kontr0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
