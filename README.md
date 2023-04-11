@@ -1,8 +1,10 @@
-Hello there 👋
+# Hello there 👋
 
-I'm a hobby developer and junior penetration tester.
+My name is Max I'm a computer science student, hobby developer and junior penetration tester.
 
 I got some handy dandy scripts in my repo 😉
++ [VMWare kernel module installer](https://github.com/kontr0x/vmware-kernel-module-installer) -> https://github.com/kontr0x/vmware-kernel-module-installer
++ [GitHub deskop install](https://github.com/kontr0x/github-desktop-install) -> https://github.com/kontr0x/github-desktop-install
 
 <!--
 **kontr0x/kontr0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
