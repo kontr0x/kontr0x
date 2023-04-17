@@ -3,7 +3,7 @@
 My name is Max I'm a computer science student, hobby developer and junior penetration tester.
 
 I got some handy dandy scripts in my repo 😉
-+ [VMWare kernel module installer](https://github.com/kontr0x/vmware-kernel-module-installer) -> https://github.com/kontr0x/vmware-kernel-module-installer
++ [VMware kernel module installer](https://github.com/kontr0x/vmware-kernel-module-installer) -> https://github.com/kontr0x/vmware-kernel-module-installer
 + [GitHub deskop install](https://github.com/kontr0x/github-desktop-install) -> https://github.com/kontr0x/github-desktop-install
 
 <!--
